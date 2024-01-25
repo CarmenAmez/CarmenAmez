@@ -1,4 +1,4 @@
-<h2 title="hehehe"> Hey 👋, I'm Carmen!</h2>
+<h2 title="hehehe"> Hey, I'm Carmen!</h2>
 
 <a href="https://www.linkedin.com/in/carmen-sas-amez-19201a2b0//">
   <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
