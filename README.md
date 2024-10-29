@@ -17,14 +17,11 @@
 <br />
 <br />
 
-
- 
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 [I’m currently a student of HTML, CSS, JS, JAVA & SQL.
+- 👨🏽‍💻 [I’m currently a student of HTML, CSS, JS, JAVA & REACT.
 - 🌱 I’m currently exploring a new way of looking at life. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [carmensasamez@gmail.com](mailto:carmensasamez@gmail.com)
